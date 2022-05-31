@@ -1,4 +1,4 @@
-## CSS and HTML: Excursion Project
+## HTML and CSS: Excursion Project
 
 ### Tech stack
 
